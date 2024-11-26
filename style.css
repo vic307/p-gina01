@@ -9,8 +9,8 @@ header{
 }
     body{
     font-family: 'arial';
-    background-color: #02abff;
-    color:rgba(255, 255, 255, 0);
+    background-color: #02abff00;
+    color:rgb(0, 136, 255);
     margin:10px auto;
     text-align: center;
 }
@@ -30,7 +30,7 @@ padding: 5px auto;
 .box{
     width:300px;
     height:200px;
-    background-color: #b2df85;
+    background-color: #26fddd;
     border-radius: 10px;
     margin:2%;
 }
